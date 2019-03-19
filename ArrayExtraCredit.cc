@@ -71,5 +71,4 @@ int arrayTotal(int numbers[], int size){
  *
  * To submit the extra credit, you must create a public repository on GitHub and tag me (@nasseef) when
  * you are done.  This extra credit is due at 11:59 PM Monday 3/18/2019.
- *
  */
